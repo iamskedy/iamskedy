@@ -1,9 +1,14 @@
 ### Hi there 👋
 -😄I am Shubham Dubey,a Frontend Developer.
--🌱I am learning JavaScipt..
+
+-I am learning JavaScipt..
+
 -📫I have finished learning DSA ,Git, HTML,CSS,SQL
+
 -⚡💻Right now I am working on lots of mini projects of frontend(HTML  & CSS )
+
 -⌨️I am active on leetcode to improve my DSA
+
 
 <!--
 **iamskedy/iamskedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
