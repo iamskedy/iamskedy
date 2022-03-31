@@ -8,7 +8,7 @@ I am worked on very intersting mini Projects and those are the basics one though
 
 -😄I am Shubham Dubey,a Frontend Developer.
 
--I am learning JavaScipt..
+-I am learning JavaScipt..Angular13
 
 -📫I have finished learning DSA ,Git, HTML,CSS,SQL
 
