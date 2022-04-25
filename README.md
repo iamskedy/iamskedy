@@ -9,7 +9,7 @@ Frontend Engineer
 * 🌍  I'm based in Greater Noida
 * 🖥️  See my portfolio at [My Portfolio](http://google.com`)
 * ✉️  You can contact me at [shubhamkumar.dubey02@gmail.com](mailto:shubhamkumar.dubey02@gmail.com)
-* 🚀  I'm currently working on [Yellow Hour](http://yellowhour.com)
+<!-- * 🚀  I'm currently working on [Yellow Hour](http://yellowhour.com) -->
 * 🤝  I'm open to collaborating on Angular and ReactJs Projects
 
 <a href="https://www.github.com/iamskedy" target="_blank" rel="noreferrer"><img
