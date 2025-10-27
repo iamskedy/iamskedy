@@ -3,7 +3,7 @@
 Hi 👋 My name is Shubham Dubey
 ==============================
 
-Frontend Engineer
+Backend NodeJS Developer
 -----------------
 
 * 🌍  I'm based in Greater Noida
